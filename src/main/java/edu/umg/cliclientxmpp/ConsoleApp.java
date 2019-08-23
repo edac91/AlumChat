@@ -50,11 +50,8 @@ public class ConsoleApp {
             });
             Chat chat = chatManager.chatWith(JidCreate.entityBareFrom("doac91@alumchat.xyz")); // pass XmppClient instance as listener for received messages.
             chat.send("Hola mundo");*/
-            AccountManager accountManager = AccountManager.getInstance(connection);
-            if (accountManager.supportsAccountCreation()) {
-                accountManager.sensitiveOperationOverInsecureConnection(true);
-                accountManager.createAccount(JidCreate.bareFrom("cama91@alumchat.xyz").getLocalpartOrThrow(), "cama91");
-            }
+            
+            
             scan.nextLine();
         } catch (Exception ex) {
             ex.printStackTrace();
