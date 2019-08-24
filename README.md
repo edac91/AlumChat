@@ -9,7 +9,7 @@ Account Management
 - SignUp a new account
 - Begin Session for an user
 - Close session for an user
-- Delete a account
+- Delete an account
 
 Communication 
 - Show all users and status for each of them 
