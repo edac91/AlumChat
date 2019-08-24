@@ -14,7 +14,7 @@ Account Management
 Communication 
 - Show all users and status for each of them 
 - Add a new contact 
-- Show detailf of a conctact 
+- Show details of a conctact 
 - One to one Chat
 - Set presence message 
 
