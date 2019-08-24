@@ -11,7 +11,7 @@ Account Management
 - Close session for an user
 - Delete a account
 
-Communication (75% del funcionamiento)
+Communication 
 - Show all users and status for each of them 
 - Add a new contact 
 - Show detailf of a conctact 
