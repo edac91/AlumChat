@@ -3,7 +3,7 @@ CLI XMPP Client, Project For Computer Networks I Course
 In order to make possible the connection to the XMPP Server, we use the Smack API.
 Smack is a library for communicating with XMPP servers to perform real-time communications, including instant messaging and group chat.
 
-###Implemented features
+### Implemented features
 
 Account Management 
 - SignUp a new account
